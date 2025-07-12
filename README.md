@@ -1,5 +1,3 @@
-# Netflix-Data-Cleaning-Analysis-and-Visualization
-Netflix content analysis project using Python, pandas, and SQLite to explore trends in movie/TV show distribution, genres, ratings, and countries. It includes data cleaning, SQL analysis, and visualizations to derive insights on Netflix content and its global distribution.
 This project focuses on analyzing Netflix’s content dataset to derive insights on the distribution of movies and TV shows. The dataset, consisting of various attributes like show ID, type, title, director, country, rating, duration, and genres, is first cleaned and preprocessed. Missing values are handled, and unnecessary columns are dropped for better analysis.
 
 Using SQL queries, key insights such as the count of movies vs. TV shows, the most common countries, and the distribution of content by year are derived. Pandas and SQLite are used for data manipulation and integration. Various visualizations, including bar plots, line charts, and a word cloud of movie titles, help in understanding the trends and patterns in the data.
